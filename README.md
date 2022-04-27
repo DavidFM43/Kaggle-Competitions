@@ -4,11 +4,11 @@ Notebooks for some Kaggle competitions and other ML exercises. The problems desc
 
 Dogs vs. Cats: https://www.kaggle.com/c/dogs-vs-cats/overview
 
-House prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniqueso
+House prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 IMBD movie reviews: https://keras.io/api/datasets/imdb/
 
-MNIST digit recognizer: https://www.kaggle.com/c/digit-recognizero
+MNIST digit recognizer: https://www.kaggle.com/c/digit-recognizer
 
 News-wires classification: https://keras.io/api/datasets/reuters/
 
