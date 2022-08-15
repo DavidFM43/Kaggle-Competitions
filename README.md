@@ -10,14 +10,9 @@ make create_environment
 make requirements
 ```
 
-In order to download the data you need to use the Kaggle API, for this execute the following commands:
+In order to download the data you need to use the Kaggle API, for more information read this [instructions](https://github.com/Kaggle/kaggle-api).
 
-```bash
-export KAGGLE_CONFIR_DIR=$PWD  # make sure to be in the root of the repository 
-```
-
-
-## Competitions
+## Competitions links
 Dogs vs. Cats: https://www.kaggle.com/c/dogs-vs-cats/overview
 
 House prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques

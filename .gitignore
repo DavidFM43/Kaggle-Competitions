@@ -78,6 +78,9 @@ target/
 # kaggle api Key
 kaggle.json
 
+# data folders
+*data
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
