@@ -80,6 +80,7 @@ kaggle.json
 
 # data folders
 *data
+*submissions
 
 # Jupyter Notebook
 .ipynb_checkpoints
